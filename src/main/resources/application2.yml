@@ -1,0 +1,14 @@
+connection:
+    username:
+            - admin11
+            - admin22
+    remoteAddress: 
+          - id: 1
+            ip: 192.168.0.1
+          - id: 2
+            ip: 192.168.0.2
+            
+    
+    
+    
+    
